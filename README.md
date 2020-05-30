@@ -75,3 +75,7 @@ These are for demonstration purposes only.
 ### Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+----
+### Run on Repl.it
+[![Run on Repl.it](https://repl.it/badge/github/iykekings/Rust)](https://repl.it/github/iykekings/Rust)
